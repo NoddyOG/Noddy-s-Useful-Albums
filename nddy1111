@@ -1,0 +1,17 @@
+{
+  "title": "<Noddy's Useful Albums>",
+  "description": "<An archive of all my Kaguya-sama Igmur albums.>",
+  "artist": "<Aka Akasaka, G3ida>",
+  "author": "<Aka Akasaka, G3ida>",
+  "cover": "<https://i.imgur.com/U3vpGmw.png>",
+  "chapters": {
+    "<1>": {
+      "title": "<Kaguya-sama Colour Pages and Illustrations",
+      "volume": "<1>",
+      "groups": {
+        "<Noddy>": "/proxy/api/imgur/chapter/<6B6cPhR>/"
+      },
+      "last_updated": "1657530649"
+    }
+  }
+}
