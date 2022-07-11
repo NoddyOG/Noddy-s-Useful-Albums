@@ -12,6 +12,30 @@
         "<Noddy>": "/proxy/api/imgur/chapter/6B6cPhR/"
       },
       "last_updated": "1657530649"
-    },
+   },
+    "2": {
+      "title": "4-Koma Colour Pages and Illustrations",
+      "volume": "1",
+      "groups": {
+        "<Noddy>": "/proxy/api/imgur/chapter/XCp5QoJ/"
+      },
+      "last_updated": "1657532334"
+   },  
+    "3": {
+      "title": "Kaguya-sama All Kozue Panels and Colour Pages",
+      "volume": "1",
+      "groups": {
+        "Noddy": "/proxy/api/imgur/chapter/4pPALTI/"
+      },
+      "last_updated": "1657532493"
+   },
+    "4": {
+      "title": "Kaguya-sama "O Kawaii Koto" Collection",
+      "volume": "1",
+      "groups": {
+        "Noddy": "/proxy/api/imgur/chapter/2ISaUAf/"
+      },
+      "last_updated": "1657532597"
+    }
   }
 }
